@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fifa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   
+    <div class="main">
+
+        <h1 class="title">FIFA Squad Roulette</h1>
+
+         <div class="actions__reset">
+            <button class="reset">Новий цикл</button>
+         </div>
+
+        <div class="top">
+            <div class="top__country">
+                <h2 class="top__title">Англія</h2>
+                <div class="lists" data-country="english">
+                </div>
+            </div>
+            <div class="top__country">
+                <h2 class="top__title">Італія</h2>
+                <div class="lists" data-country="italy">
+                </div>
+            </div>
+            <div class="top__country">
+                <h2 class="top__title">Франція</h2>
+                <div class="lists" data-country="france">
+                </div>
+            </div>
+            <div class="top__country">
+                <h2 class="top__title">Іспанія</h2>
+                <div class="lists"  data-country="spain">
+                </div>
+            </div>
+            <div class="top__country">
+                <h2 class="top__title">Німеччина</h2>
+                <div class="lists" data-country="germany">
+                </div>
+            </div>
+            <div class="top__country">
+                <h2 class="top__title">Португалія</h2>
+                <div class="lists" data-country="portugal">
+                </div>
+            </div>
+            <div class="top__country">
+                <h2 class="top__title">Інші</h2>
+                <div class="lists" data-country="other">
+                </div>
+            </div>
+        </div>
+
+        <div class="middle">
+            <div class="player">
+                <div class="actions">
+                    <button class="lose" data-id="one">Програв</button>
+                    <button class="return" data-id="one">Змінити команду</button>
+                </div>
+                <div class="player-wrap" id="player_one">
+                </div>
+            </div>
+            <div class="divider">VS</div>
+            <div class="player">
+                <div class="actions">
+                    <button class="lose" data-id="two">Програв</button>
+                    <button class="return" data-id="two">Змінити команду</button>
+                </div>
+                <div class="player-wrap" id="player_two">
+                </div>
+            </div>
+        </div>
+
+        <div class="bottom">
+
+        </div>
+
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

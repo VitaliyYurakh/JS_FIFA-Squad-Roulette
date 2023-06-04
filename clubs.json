@@ -1,0 +1,143 @@
+{
+  "allFootbalClub": {
+    "english": [
+      {
+        "id": 9,
+        "name": "Wolves",
+        "src": "icons/Wolver.png",
+        "label": "Wolves"
+      },
+      {
+        "id": 10,
+        "name": "Leiceste",
+        "src": "icons/Leiceste.png",
+        "label": "Лестер"
+      },
+      {
+        "id": 11,
+        "name": "Crystal_Palace",
+        "src": "icons/Crystal_Palace.png",
+        "label": "Crystal Palace"
+      }
+    ],
+    "italy": [
+      {
+        "id": 18,
+        "name": "Torino",
+        "src": "icons/Torino.png",
+        "label": "Торіно"
+      }
+    ],
+    "france": [],
+    "spain": [
+      {
+        "id": 28,
+        "name": "Athletic_Bilbao",
+        "src": "icons/Athletic_Bilbao.png",
+        "label": "Атлетико Більбао"
+      },
+      {
+        "id": 29,
+        "name": "Celta",
+        "src": "icons/Celta.png",
+        "label": "Celta"
+      },
+      {
+        "id": 30,
+        "name": "Betis",
+        "src": "icons/Betis.png",
+        "label": "Реал Бетіс"
+      },
+      {
+        "id": 31,
+        "name": "Real_Sociedad",
+        "src": "icons/Real_Sociedad.png",
+        "label": "Реал Сосьєдад"
+      }
+    ],
+    "germany": [
+      {
+        "id": 37,
+        "name": "Borussia_Moenchengladbach",
+        "src": "icons/Borussia_Moenchengladbach.png",
+        "label": "Борусія М."
+      },
+      {
+        "id": 38,
+        "name": "Werder",
+        "src": "icons/Werder.png",
+        "label": "Вердер"
+      }
+    ],
+    "portugal": [
+      {
+        "id": 39,
+        "name": "Porto",
+        "src": "icons/Porto.png",
+        "label": "Порту"
+      },
+      {
+        "id": 40,
+        "name": "Benfica",
+        "src": "icons/Benfica.png",
+        "label": "Бенфіка"
+      },
+      {
+        "id": 41,
+        "name": "Sporting",
+        "src": "icons/Sporting.png",
+        "label": "Спортінг"
+      },
+      {
+        "id": 42,
+        "name": "Braga",
+        "src": "icons/Braga.png",
+        "label": "Брага"
+      }
+    ],
+    "other": [
+      {
+        "id": 43,
+        "name": "Ajax",
+        "src": "./icons/Ajax.png",
+        "label": "Аякс"
+      },
+      {
+        "id": 44,
+        "name": "Shakhtar",
+        "src": "./icons/Shakhtar.png",
+        "label": "Шахтар"
+      },
+      {
+        "id": 45,
+        "name": "Dynamo_Kyiv",
+        "src": "./icons/Dynamo_Kyiv.png",
+        "label": "Динамо"
+      },
+      {
+        "id": 46,
+        "name": "Besiktas",
+        "src": "./icons/Besiktas.png",
+        "label": "Бешікташ"
+      },
+      {
+        "id": 47,
+        "name": "Fenerbahce",
+        "src": "./icons/Fenerbahce.png",
+        "label": "Фенехбахче"
+      },
+      {
+        "id": 48,
+        "name": "Galatasaray",
+        "src": "./icons/Galatasaray.png",
+        "label": "Галатасарай"
+      }
+    ]
+  },
+  "playerOne": {},
+  "playerTwo": {
+    "name": "Porto",
+    "label": "Порту",
+    "src": "file:///F:/Learning_environment/Course%20Project/JavaScript/JS_Fifa/icons/Porto.png"
+  }
+}
